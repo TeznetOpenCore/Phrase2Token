@@ -1,2 +1,4 @@
 # Phrase2Token
 Будь ласка и пожалуйста, используйте это, чтобы улучшить свой языковой спин-офф
+
+Please use this to create your langauge spin-off
